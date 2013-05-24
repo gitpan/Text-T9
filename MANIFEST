@@ -2,6 +2,8 @@ Changes
 Makefile.PL
 MANIFEST
 README
-T9.pm
+lib/Text/T9.pm
 test.pl
 COPYING
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
